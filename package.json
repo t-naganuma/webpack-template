@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/t-naganuma/webpack-template#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "terser-webpack-plugin": "^3.0.8",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
     "webpack-merge": "^5.0.9"
